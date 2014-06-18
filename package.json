@@ -1,11 +1,11 @@
 {
   "name": "wrap-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap a stream in starting and ending strings/bytes",
   "main": "index.js",
   "author": {
-    "name" : "Myles Byrne",
-    "email" : "myles@myles.id.au"
+    "name": "Myles Byrne",
+    "email": "myles@myles.id.au"
   },
   "license": "MIT"
 }
