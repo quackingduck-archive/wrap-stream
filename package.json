@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Wrap a stream in starting and ending strings/bytes",
   "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
   "author": {
     "name" : "Myles Byrne",
     "email" : "myles@myles.id.au"
